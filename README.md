@@ -14,15 +14,19 @@ Firebase - Backend framwork
 FireStore - Database
 
 ## Getting Started
+## Install Android Studio
 
-This project is a starting point for a Flutter application.
+Android Studio offers a complete, integrated IDE experience for Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Android Studio, version 3.0 or later
+Alternatively, you can also use IntelliJ:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Install the Flutter and Dart plugins
+To install these:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Start Android Studio.
+Open plugin preferences (Configure > Plugins as of v3.6.3.0 or later).
+Select the Flutter plugin and click Install.
+Click Yes when prompted to install the Dart plugin.
+Click Restart when prompted.
 

@@ -1,7 +1,8 @@
 # QuizApp
 
-A new Flutter project.
-### The Andriod version of thsi app is available for download at : https://drive.google.com/file/d/12Nmfo6tgYqVloCdhHtMTaPWLuTXDbAvV/view
+A new Flutter project
+
+The Andriod version of thsi app is available for download at : https://drive.google.com/file/d/12Nmfo6tgYqVloCdhHtMTaPWLuTXDbAvV/view
 ## Getting Started
 
 This project is a starting point for a Flutter application.
